@@ -6,10 +6,10 @@ There are lots of tutorials and online resources available, however some are out
 
 I gathered the articles and some github repos about buidling a custmized chatbot, with ability to answer based on provided materials.
 
-Here is a summary for the links and I also uploaded code that works perfectly fine itself or with some adjustments.
+Here is a summary for the links and I also uploaded code that works perfectly fine itself or with some adjustments. Name matches within the summary table.
 
-| Link | Last Updated Time | Purpose | Technology | Issues |
-| ---- | ----------------- | ------- | ---------- | ------ |
+| Link | Last Updated Time (Month/Year) | Purpose | Technology | Issues |
+| ---- | ------------------------------ | ------- | ---------- | ------ |
 | [LLama3-ChatPDF](https://github.com/Sh9hid/LLama3-ChatPDF) | 06/24 | pdf | LLama3, Langchain, Ollama, Streamlit | need to ask relevant questions right after a file is uploaded, otherwise this file won’t be recognized |
 | [groq-llama3](https://github.com/eersnington/groq-llama3-pdf-rag) | 07/24 | pdf | Streamlit, Groq AI, Streamlit-Option-Menu, Langchain, FAIS | Some questions would be recognized as not related |
 | [rag-llama3](https://lightning.ai/lightning-ai/studios/rag-using-llama-3-by-meta-ai?section=featured) | 07/24 | llama3 (llama3:8b-instruct-q4_1), hugging face | Can only process one file, no memory of previous files |
