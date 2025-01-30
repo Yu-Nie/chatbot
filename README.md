@@ -23,7 +23,7 @@ Here is a summary for the links and I also uploaded code that works perfectly fi
 | [langchain-ollama](https://medium.aiplanet.com/implementing-rag-using-langchain-ollama-and-chainlit-on-windows-using-wsl-92d14472f15d) | 11/23 | pdf | Ollama, Chainlit(Langchain) | fail to upload files |
 | [chainlit-langchain](https://medium.com/@cleancoder/build-a-chatbot-in-minutes-with-chainlit-gpt-4-and-langchain-7690968578f0) | 11/23 | - | AzureChatOpenAI, Chainlit, Langchain | unclear about model name and API key, unable to connect |
 | [chainlit-chatbot](https://tinztwinshub.com/software-engineering/build-a-local-chatbot-in-minutes-with-chainlit/) | 06/24 | - | Ollama (llama3.2), Chainlit	| fail to upload files |
-| [multi-doc-reader](https://betterprogramming.pub/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339) | 05/23 | multi-doc reader, pdf, docx, txt	| OpenAI | https://github.com/smaameri/multi-doc-chatbot/tree/master |can’t process large pdfs |
+| [multi-doc-reader](https://betterprogramming.pub/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339) | 05/23 | multi-doc reader, pdf, docx, txt	| OpenAI |can’t process large pdfs |
 | [streamlit-rag](https://www.bluebash.co/blog/pdf-csv-chatbot-rag-langchain-streamlit/) | 11/24 | pdf, csv | OpenAI, Langchain, streamlit | - |
 | [rag-openai](https://medium.com/thedeephub/rag-chatbot-powered-by-langchain-openai-google-generative-ai-and-hugging-face-apis-6a9b9d7d59db) | 2/24 | txt, pdf, CSV, docx | Langchain, OpenAI, Google Generative AI, Hugging Face APIs, Streamlit | an incompatible version of langchain or pydantic ; tried some methods to match those versions but still failed to run |
                     
