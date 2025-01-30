@@ -4,7 +4,7 @@ Welcome to the Chatbot project! This chatbot is designed to read custmized infor
 
 There are lots of tutorials and online resources available, however some are outdated and some don't working at all.
 
-I gathered the articles and some top rated repos about buidling a custmized chatbot, with ability to answer based on provided materials.
+I gathered the articles and some github repos about buidling a custmized chatbot, with ability to answer based on provided materials.
 
 Here is a summary for the links and I also uploaded code that works perfectly fine itself or with some adjustments.
 
